@@ -1,0 +1,43 @@
+[submodule "42curses/minishell"]
+	path = 42curses/minishell
+	url = https://github.com/Abdelghafour2001/minishell
+[submodule "42curses/Born2beroot"]
+	path = 42curses/Born2beroot
+	url = https://github.com/Abdelghafour2001/Born2beroot
+[submodule "42curses/libft"]
+	path = 42curses/libft
+	url = https://github.com/Abdelghafour2001/libft
+[submodule "42curses/Philosophers"]
+	path = 42curses/Philosophers
+	url = https://github.com/Abdelghafour2001/Philosophers
+[submodule "42curses/ft_printf"]
+	path = 42curses/ft_printf
+	url = https://github.com/Abdelghafour2001/ft_printf
+[submodule "42curses/get_next_line"]
+	path = 42curses/get_next_line
+	url = https://github.com/Abdelghafour2001/get_next_line
+[submodule "42curses/minitalk"]
+	path = 42curses/minitalk
+	url = https://github.com/Abdelghafour2001/minitalk
+[submodule "42curses/push_swap"]
+	path = 42curses/push_swap
+	url = https://github.com/Abdelghafour2001/push_swap
+[submodule "42curses/so_long"]
+	path = 42curses/so_long
+	url = https://github.com/Abdelghafour2001/so_long
+[submodule "42curses/cub3d"]
+	path = 42curses/cub3d
+	url = https://github.com/Abdelghafour2001/cub3d
+[submodule "42curses/CPP_Modules"]
+	path = 42curses/CPP_Modules
+	url = https://github.com/Abdelghafour2001/CPP_Modules
+[submodule "42curses/webserv"]
+	path = 42curses/webserv
+	url = https://github.com/Abdelghafour2001/webserv
+[submodule "42curses/inception"]
+	path = 42curses/inception
+	url = https://github.com/Abdelghafour2001/inception
+[submodule "42curses/ft_transcendence"]
+	path = 42curses/ft_transcendence
+	url = https://github.com/Abdelghafour2001/ft_transcendence
+
